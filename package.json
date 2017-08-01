@@ -1,0 +1,19 @@
+{
+  "name": "nyt_react",
+  "version": "1.0.0",
+  "description": "scraper",
+  "main": "public/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lenopoet/nyt_react.git"
+  },
+  "author": "Daniel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lenopoet/nyt_react/issues"
+  },
+  "homepage": "https://github.com/lenopoet/nyt_react#readme"
+}
